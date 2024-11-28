@@ -13,10 +13,9 @@ maintainers = [""]
 
 [upstream]
 license = "AGPL-3.0"
-website = "invoiceshelf.com"
-demo = "https://demo.example.com"
+website = "https://invoiceshelf.com"
 admindoc = "https://docs.invoiceshelf.com/install/manual.html"
-userdoc = "https://yunohost.org/apps"
+userdoc = "https://docs.invoiceshelf.com/"
 code = "https://github.com/InvoiceShelf/InvoiceShelf"
 
 [integration]
