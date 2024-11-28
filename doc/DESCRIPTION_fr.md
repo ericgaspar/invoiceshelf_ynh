@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+InvoiceShelf est une application Web et mobile open source qui vous aide à suivre les dépenses, les paiements et à créer des factures et des devis professionnels.
