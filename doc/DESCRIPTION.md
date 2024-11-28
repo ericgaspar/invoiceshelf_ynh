@@ -1,1 +1,1 @@
-This is a dummy description of this app features
+InvoiceShelf is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
